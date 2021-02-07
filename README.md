@@ -11,9 +11,9 @@ for your own machine. I'll do my best to answer questions related to parameters 
 - Terminal: Alacritty
 - Shell: bash
 - Browser: Firefox 
-- File manager: [nnn] (https://github.com/jarun/nnn)
-- Editor: [Vim] (https://github.com/vim/vim)
-- Fetch: [pfetch-git] (https://github.com/dylanaraps/pfetch)
+- File manager: [nnn](https://github.com/jarun/nnn)
+- Editor: [Vim](https://github.com/vim/vim)
+- Fetch: [pfetch-git](https://github.com/dylanaraps/pfetch)
 
 
 <img src="https://raw.githubusercontent.com/Barbarossa93/Genome/main/out.png" alt="img" align="center" width="900px">
