@@ -16,4 +16,4 @@ for your own machine. I'll do my best to answer questions related to parameters 
 - Fetch: [pfetch-git](https://github.com/dylanaraps/pfetch)
 
 
-#<img src="https://raw.githubusercontent.com/Barbarossa93/Genome/main/out.png" alt="img" align="center" width="900px">
+<img src="httpss://raw.githubusercontent.com/Barbarossa93/Genome/main/out.png" alt="img" align="center" width="900px">
